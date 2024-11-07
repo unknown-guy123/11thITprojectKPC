@@ -1,1 +1,1 @@
-hello
+check the templates
